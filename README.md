@@ -12,3 +12,4 @@ The user has one of four options to choose from when while in the git/bash comma
 	your twitter account. Example: 
 	
 The second is 
+fd
