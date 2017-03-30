@@ -8,4 +8,5 @@
 
 ## How it works
 The user has one of four options to choose from when while in the git/bash command line.
-	The first is 
+	The first is 'node liri.js my-tweets'
+The second is 
