@@ -8,5 +8,7 @@
 
 ## How it works
 The user has one of four options to choose from when while in the git/bash command line.
-	The first is 'node liri.js my-tweets'
+	The first is `node liri.js my-tweets` which will display the last 20 tweets from 
+	your twitter account. Example: 
+	
 The second is 
