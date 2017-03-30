@@ -60,3 +60,39 @@ I wish i could sleep more today
 at least it's not below 32 degrees
 and very rainy outside
 it is monday morning
+NEW DATA---------------------------------
+Zelda Breath of the Wild is an awesome game
+the weather is really beautiful today
+Any ideas for the next traveling trip? Iceland was great last year!
+I need a vacation soon!
+when will the weather be about 60 already?
+maybe i should listen to some inspiring music today
+I need to clean my room
+what do people post on here?
+i need more tweets to post about
+I am completely new to twitter
+Has anybody seen any good movies lately?
+i need it to display my last 20 tweets
+hopefully the twitter npm using node will work on the first try
+there was no traffic on the road today
+my commute is not bad a all
+this cup of coffee will set me right
+I wish i could sleep more today
+at least it's not below 32 degrees
+and very rainy outside
+it is monday morning
+NEW DATA---------------------------------
+* Title of the movie: Casino Royale
+* Year the movie came out: 2006
+* IMDB Rating of the movie: 8.0
+* Country where movie is produced: UK, Czech Republic, USA, Germany, Bahamas, Italy
+* Language of the movie: English, French
+* Plot of the movie: Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.
+* Actors in the movie: Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench
+* Rotten Tomatoes Rating: 95%
+* Rotten Tomatoes URL: https://www.rottentomatoes.com/m/casino_royale
+NEW DATA---------------------------------
+Artist: Metallica
+Song Name: Halo On Fire
+Album Name: Hardwired…To Self-Destruct
+Preview URL: https://p.scdn.co/mp3-preview/a48f7721f4e5dfb9c630b2456c83170e3f5a7e47?cid=null
