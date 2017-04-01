@@ -145,6 +145,7 @@ var client = new Twitter(accessKeys.twitterKeys);
 		}); // ends ombd request function 
 	}; //ends function movieOmdb
 
+function main() {
 // these if statements check what the user entered and will call the cooresponding function to execute
 if (argument === "spotify-this-song") 
 {
@@ -159,12 +160,24 @@ if (argument === "my-tweets")
 if (argument === "movie-this") 
 {
 	movieOmdb();
-}	
+}
 
 // fs.readFile will read text from a file and console log it
 if (argument === "do-what-it-says") {
 	fs.readFile("random.txt", "utf8", function(error, data){
-
-		console.log(data);
+		var argumentforsend = data.split(",", 2);
+		argument = argumentforsend[0];
+		argument2 = argumentforsend[1];
+		// console.log(data);
+		// console.log(argumentforsend);
+		// console.log(argument);
+		// if (argumentforsend[1] != null) {
+		// console.log(argument2);
+	// }
+		main();
 	});
 };
+
+};
+
+main();

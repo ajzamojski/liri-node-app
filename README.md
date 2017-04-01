@@ -19,4 +19,4 @@ The third command is: `node liri.js movie-this 'casino royale'`. Similar to the 
 a movie title place it between single or double quotes. Example: ![screenshot3](screenshot3.png)
 
 Finally the final command: `node liri.js do-what-it-says` will read a text file, in this case the file `random.txt`
-and display it to the console. Example: ![screenshot4](screenshot4.png)
+and execute the command listed to the console. Example: ![screenshot4](screenshot4.png)
